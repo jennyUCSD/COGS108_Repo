@@ -1,2 +1,2 @@
 # COGS108_Repo
-# test
+my first repository on GitHub
