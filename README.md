@@ -1,2 +1,2 @@
 # COGS108_Repo
-# Jieun Lee
+# Jieun Lee A 16551797
